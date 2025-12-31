@@ -16,7 +16,7 @@ This data analysis project, examines the overall encounter volume to better unde
 </p>
 
 <p align="center")>
-*Total Encounter by Year (2011-2022)*
+<*Total Encounter by Year (2011-2022)*>
 </p>
 
 Data shows that out of 27,891 encounters there’s 3,885 (13.93%) encountered patients occurred on year 2014 and 2021 with 3,530 (12.66%) encountered patients. Surprisingly it didn’t peak around year 2019 onwards considering that the Pandemic (COVID-19) happened around that time. 
