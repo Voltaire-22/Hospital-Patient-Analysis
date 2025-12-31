@@ -13,8 +13,9 @@ This data analysis project, examines the overall encounter volume to better unde
 
 <p align="center">
 <img src= "https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/02840dfc259d12a47298ce3149f85a7ebd47c097/Encounter%20by%20Year.png" width="700">
-</p>
 *Total Encounter by Year (2011-2022)*
+</p>
+
 
 Data shows that out of 27,891 encounters there’s 3,885 (13.93%) encountered patients occurred on year 2014 and 2021 with 3,530 (12.66%) encountered patients. Surprisingly it didn’t peak around year 2019 onwards considering that the Pandemic (COVID-19) happened around that time. 
 
