@@ -47,6 +47,10 @@ In this figure shows the top 10 highest procedure done in the hospital in the sp
 
 Over the past 11 years, the highest admitted patient is on the 1st quarter of 2014 with 254 patients and averages at 150 patients per quarter for the following years. Basing on the above data, Massachusetts General Hospital (MGH) encounters 150 patients per quarter on average.
 
+# **DATA MODEL**
+
+![alt text]([image.jpg](https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/5afc118c205910e8ea9f5e2ee0547010d3819b39/Data%20Model.png))
+
 # **CONCLUSION**
 
 The analysis revealed that encounter volumes remained relatively stable over time, with notable peaks in 2014 and 2021, rather than during the height of the COVID-19 pandemic as initially expected. 
