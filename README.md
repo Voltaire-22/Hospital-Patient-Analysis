@@ -49,9 +49,7 @@ Over the past 11 years, the highest admitted patient is on the 1st quarter of 20
 
 # **DATA MODEL**
 
-![alt text](https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/main/Data%20Model.png?raw=true)
-
-<img src= "https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/main/Data%20Model.png?raw=true" width="48">
+<img src= "https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/main/Data%20Model.png?raw=true" width="100">
 
 # **CONCLUSION**
 
