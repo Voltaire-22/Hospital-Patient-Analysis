@@ -6,7 +6,7 @@
 This data analysis project, examines the overall encounter volume to better understand encounter behavior and patterns. In this data includes payer coverage information and patient information to recognize financial stability / pattern over time.
 
 <p align="center">
-<img src= "https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/main/Dashboard.png?raw=true" width="500">
+<img src= "https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/main/Dashboard.png?raw=true" width="700">
 </p>
 
 ## **ENCOUNTERS OVERVIEW**
