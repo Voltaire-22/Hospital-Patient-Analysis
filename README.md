@@ -62,7 +62,7 @@ Patient behavior analysis indicated a relatively consistent admission pattern ov
 
 # **DATA COLLECTION**
 
-Through various sources, there’s a lot of data sets similar to this data, however I opted to choose the data from Maven Analytics website as the data from their website is completely raw/uncleaned while the datasets in Kaggle are already cleaned. This gave me an opportunity to be hands on to the whole process start to finish and become more familiar with the data.
+Through various sources, there’s a lot of datasets similar to this data, however I opted to choose the data from Maven Analytics website as the data from their website is completely raw/uncleaned while the datasets in Kaggle are already cleaned. This gave me an opportunity to be hands on to the whole process start to finish and become more familiar with the data.
 
 **TOOLS:** Excel | Power BI
 
