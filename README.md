@@ -15,7 +15,7 @@ This data analysis project, examines the overall encounter volume to better unde
 <img src= "https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/02840dfc259d12a47298ce3149f85a7ebd47c097/Encounter%20by%20Year.png" width="700">
 </p>
 
-<p align="center")
+<p align="center")>
 *Total Encounter by Year (2011-2022)*
 </p>
 
