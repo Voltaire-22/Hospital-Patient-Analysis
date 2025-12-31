@@ -51,6 +51,8 @@ Over the past 11 years, the highest admitted patient is on the 1st quarter of 20
 
 ![alt text](https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/main/Data%20Model.png?raw=true)
 
+<img src= "(https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/main/Data%20Model.png?raw=true)" width="48">
+
 # **CONCLUSION**
 
 The analysis revealed that encounter volumes remained relatively stable over time, with notable peaks in 2014 and 2021, rather than during the height of the COVID-19 pandemic as initially expected. 
