@@ -30,7 +30,7 @@ Data shows that out of 27,891 encounters there’s 3,885 (13.93%) encountered pa
 </p>
 
 <p align="center")>
-*Total Encounter Class (2011-2022)*
+Total Encounter Class (2011-2022)
 </p>
 
 Hospitals designate different classes to their process, designed to maximize efficiency of the overall process. In this data shows Ambulatory contributes the most with 44% encounter over the span of 11 years. Ambulatory is the type of encounter class where patients doesn’t need to be admitted and only requires minimal treatment/procedure.
@@ -42,7 +42,7 @@ Hospitals designate different classes to their process, designed to maximize eff
 </p>
 
 <p align="center")>
-*Total Patient Assisted by Payer*
+Total Patient Assisted by Payer
 </p>
 
 Payers refers to a government body that assist people in medical finances by programs like Medical Insurance and Hospital Insurance. In this data, there are cases that the government pays/covers a portion of the medical cost. Out of 27,891 encounters, 13,586 encounters are not covered by the payers’ program,
@@ -86,7 +86,7 @@ In this figure shows the top 10 highest procedure done in the hospital in the sp
 </p>
 
 <p align="center")>
-*Unique Patient Admitted*
+Unique Patient Admitted
 </p>
 
 Over the past 11 years, the highest admitted patient is on the 1st quarter of 2014 with 254 patients and averages at 150 patients per quarter for the following years. Basing on the above data, Massachusetts General Hospital (MGH) encounters 150 patients per quarter on average.
