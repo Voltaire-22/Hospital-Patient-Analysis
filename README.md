@@ -5,6 +5,10 @@
 ## **INTRODUCTION**
 This data analysis project, examines the overall encounter volume to better understand encounter behavior and patterns. In this data includes payer coverage information and patient information to recognize financial stability / pattern over time.
 
+<p align="center">
+<img src= "https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/main/Dashboard.png?raw=true" width="500">
+</p>
+
 ## **ENCOUNTERS OVERVIEW**
 
 *Total Encounter by Year (2011-2022)*
