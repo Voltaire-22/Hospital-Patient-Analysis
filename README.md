@@ -36,7 +36,7 @@ Hospitals designate different classes to their process, designed to maximize eff
 ## **COST & COVERAGE INSIGHTS**
 
 <p align="center">
-<img src= "https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/main/Encounter%20By%20Class.png?raw=true" width="700">
+<img src= "https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/main/Assisted%20Patient%20by%20Payer.png?raw=true" width="700">
 </p>
 
 <p align="center")>
@@ -55,8 +55,20 @@ Upon further analysis, some of the following procedure/cases are not covered by 
 
 These are the low cost and cases that are not critical to the health of a patient. However, not all of the low-cost symptoms/cases are not covered by government, they still cover some of the cases. This could be an opportunity for government bodies to increase coverage of their program.
 
+<p align="center">
+<img src= "https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/main/Top%2010%20Procedure.png?raw=true" width="700">
+</p>
+
 <p align="center")>
-*Top 10 Procedure and It’s Average Base Cost*
+Top 10 Procedure
+</p>
+
+<p align="center">
+<img src= "https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/main/Avg%20Base%20Cost.png?raw=true" width="700">
+</p>
+
+<p align="center")>
+Highest Average Base Cost by Procedure
 </p>
 
 In this figure shows the top 10 highest procedure done in the hospital in the span of 11 years ---- while Electrical cardioversion is the highest average in terms of base cost of $25,903.11, it is not the most performed procedure at the hospital. Both of the base cost for Assessment and Hospice Care averages around $400.
@@ -66,6 +78,10 @@ In this figure shows the top 10 highest procedure done in the hospital in the sp
 **Hospice Care (Regime/Therapy) (25.01%):** Massachusetts General Hospital (MGH) have encountered 4,098 patients that has undergone therapy.
 
 ## **PATIENT BEHAVIOR ANALYSIS**
+
+<p align="center">
+<img src= "https://github.com/Voltaire-22/Hospital-Patient-Analysis/blob/main/Patient%20Admitted%20by%20yr%20&%20qrtr.png?raw=true" width="700">
+</p>
 
 <p align="center")>
 *Unique Patient Admitted*
